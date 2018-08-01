@@ -3,10 +3,6 @@
     font-family: Roboto, Helvetica, sans-serif;
 }
 
-nav {
-    background-color: #6D7993
-}
-
 #logoutLink {
     visibility: hidden;
 }
@@ -21,20 +17,20 @@ nav {
     width: 600px;
 }
 
-#popupbox {
-    margin: 0;
-    margin-left: 40%;
+#popupbox{
+    margin: 0; 
+    margin-left: 40%; 
     margin-right: 40%;
-    margin-top: 50px;
-    padding-top: 10px;
-    width: 20%;
-    height: 150px;
-    position: absolute;
-    background: #FBFBF0;
-    border: solid #000000 2px;
-    z-index: 9;
-    font-family: arial;
-    visibility: hidden;
+    margin-top: 50px; 
+    padding-top: 10px; 
+    width: 20%; 
+    height: 150px; 
+    position: absolute; 
+    background: #FBFBF0; 
+    border: solid #000000 2px; 
+    z-index: 9; 
+    font-family: arial; 
+    visibility: hidden; 
 }
 
 .gmap_canvas {
@@ -216,7 +212,7 @@ ul {
 
 .days span.active {
     padding: 5px;
-    background: rgb(80, 89, 109);
+    background: #1adc9c;
     color: white;
 }
 
